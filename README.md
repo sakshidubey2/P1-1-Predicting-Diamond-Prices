@@ -31,3 +31,4 @@ Both datasets contain carat, cut, and clarity data for each diamond. Only the di
 **Step 3 – Make a recommendation:** Now we you the predicted price for each diamond, it’s time to calculate the bid price for the whole set. **Note:** The diamond price that the model predicts represents the final retail price the consumer will pay. The company generally purchases diamonds from distributors at 70% of that price, so our recommended bid price should represent that.
 
 ## Results
+After summing up the price for each diamond, the recommended price that we will get is $8213465.
